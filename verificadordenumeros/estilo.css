@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(82, 128, 255);
+    font: normal;
+    font-family: Helvetica; 
+    font-size: 15pt;
+    text-align: left; 
+
+}
+header{
+    color: white;
+    text-align: left; 
+
+}
+section{
+    background-color: white;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(141, 140, 140);
+    text-align: left; 
+
+}
+footer{
+   font-style: italic;
+   color: white; 
+   text-align: center; 
+}
+div#res{
+    font-size: 16pt;
+}
+
+
+header{
+    text-align: center;
+}
+
+div#btnfinalizar{
+    margin-bottom: 20px;
+}
